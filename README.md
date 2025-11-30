@@ -1,6 +1,6 @@
 #### اضافة عميل جديد
 
-![](D:\project-django-new\Main\0.jpg)
+<img src="[https://github.com/Gouda01/gouda01/blob/main/Web%20Development.jpg](https://github.com/melazab960/Main/blob/main/0.jpg)" align="center" style="width: 100%" />
 
 ```python
 def save(self, *args, **kwargs):
@@ -40,4 +40,5 @@ def save(self, *args, **kwargs):
 
         super().save(*args, **kwargs)
 ```
+
 
